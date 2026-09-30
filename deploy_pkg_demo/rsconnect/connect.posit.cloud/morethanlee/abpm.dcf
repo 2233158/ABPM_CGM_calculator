@@ -1,0 +1,10 @@
+name: abpm
+title: ABPM Integrated Bilingual Analysis System
+username: morethanlee
+account: morethanlee
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a0b07c-3f83-6f51-2da3-699c68399233
+bundleId:
+url: https://connect.posit.cloud/morethanlee/content/01a0b07c-3f83-6f51-2da3-699c68399233
+version: 1

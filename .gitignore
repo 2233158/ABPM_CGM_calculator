@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs
+*.log
+
+# Internal tooling state (session/scan metadata, not project content)
+.mimosa/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
